@@ -45,6 +45,4 @@
         android:textColor="@color/colorNoteSubtitleText"
         android:textSize="@dimen/_7ssp"/>
 
-
-
 </LinearLayout>
